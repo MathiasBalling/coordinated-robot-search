@@ -2,8 +2,8 @@
 
 Bachelor Project 2025
 
-- [Thesis Report](https://balderholst.github.io/coordinated-robot-search/report.pdf)
-- [botbrain documentation](https://balderholst.github.io/coordinated-robot-search/docs/botbrain/botbrain)
+- [Thesis Report](https://mathiasballing.github.io/coordinated-robot-search/report.pdf)
+- [botbrain documentation](https://mathiasballing.github.io/coordinated-robot-search/docs/botbrain/botbrain)
 
 ---
 
@@ -11,7 +11,7 @@ Bachelor Project 2025
 
 Rust library crate containing the core logic of the project including the search algorithms.
 
-Documentation can be found [here](https://balderholst.github.io/coordinated-robot-search/docs/botbrain/botbrain).
+Documentation can be found [here](https://mathiasballing.github.io/coordinated-robot-search/docs/botbrain/botbrain).
 
 ## [`simple_sim`](./simple_sim)
 
